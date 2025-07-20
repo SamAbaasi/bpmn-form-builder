@@ -1,12 +1,10 @@
-# Documentation Files
-
-## README.md
-```markdown
 # Form Builder Pro
 
 A professional drag-and-drop form builder built with React, TypeScript, and Tailwind CSS.
 
-![Form Builder Pro](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Form+Builder+Pro)
+## Demo
+
+**Live Demo**: [BPMN Form Builder Demo](https://bpmn-form-builder.netlify.app/)
 
 ## ✨ Features
 
@@ -295,4 +293,3 @@ REACT_APP_ENABLE_PREVIEW=true
 
 # Development
 REACT_APP_DEBUG=false
-```
